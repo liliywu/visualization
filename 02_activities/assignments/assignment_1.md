@@ -2,14 +2,16 @@
 
 ## Assignment 1: Participation (Ongoing)
 
-### Requirements:
+### Requirements: 
 
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
   
   > If code in a slide looks like this, you should be running it to generate results.
 
+
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
 - Following each lesson with code, submit a document (either .py or a Jupyter notebook) containing the functioning code from that day's lesson, along with any written notes or comments.
+
 
 ### Why am I doing this assignment?:
 
