@@ -10,25 +10,43 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad example: https://public.tableau.com/app/profile/gbolahan.adebayo/viz/VehicleSurveyAnalysisDashboard/Dashboard1
 
+      This visualization showcases survey results from 100 respondens about their vehicle choices. 
 
+      Font size and color:
+      - Font size (i.e., small) and color (i.e., greyish) chosen is not clear and may hinder the easiness of figure readablity. 
 
+      Layout: 
+      - since demographic information is  categorical, the channel used for age and gender (i.e., color hue and shape) is appropriate. The use of magnitude was also appropriate for ethnicity and education since it was accompanied with percentages. 
+      
+      However,  how the author chose to display the survey questions was confusing. Given that 100 participants were taken part into the survey, it is not clear what  all the participants  answered for each question. It appears that the author chose to report the most common answer for each question, followed by how many particiipants answered it. We are able to observe any general patterns or comparisons among other answers. Additionally, it seems like question 6 was empty (there were no responses) perhaps including it does not add any extra information onto the infographics. 
 
+      Good example: https://public.tableau.com/app/profile/bo.mccready8742/viz/TwoErasofSafetyIronViz2025Winner/TwoEras
 
+     This visualization compares the number of recorded aircraft-wildlife strikes in the USA from 1990-2023 to investigate whether reforms following 2009 made airplanes safer
+
+     Font size and color:
+     - seems clear and appropriate, color of the font size contrasts well with the background. The font size could have been slightly improved a the top of the infogaphics where the author included the dataset description
+
+     Layout:
+     - the color chosen to differentiate pre vs. post 2009 reform was clever. The figures were clear and the pie chart on the bottom were tittled and well displayed. We see that each piechart represent an airport, where top part of the figure represents monthly trends of  number of strikes, and the bottom part of the figure represents monthly trends of "high damage" aiplanes.  The author has sucessfully displayed a lot of information in a clear manner. 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
+      Bad example:
+      the author could  increase the font size and use a lighter (e.g., white), more contrasting font color to constrast with the black background chosen. The layout of the survey questions should be revised to present a full distribution of responses rather than just the most common answer. This could allow viewers to observe broader patterns and comparisons among different options. 
       
+      For clarity, each question could be visualized using bar charts or horizontal stacked bars, which would better showcase the range of answers from all 100 participants.
+    
+      Finally, since Question 6 was empty, it should either be removed or clearly marked as having no responses to avoid confusion and unnecessary visual clutter. 
+
+      Good example:
+      Font size for the infographic description could be bigger... Seems like there is enough space to do so. 
+
+      As an extra step, the author could provide a separate graph for yearly trend as well with strikes and high damage as separate outcome measures. 
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
